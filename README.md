@@ -8,7 +8,7 @@
 
 ### A portfolio should (and yours must) include at least the following sections defined in your index.html file in this repository:
 - A brief about section (similar to a resume objective statement but with more information about you)
-- Projects (include at least 3, even if they're super simple HTML pages)
+- Links to Projects you have completed (include at least 3, even if they're super simple HTML pages).  Write your own html pages to link to, dont link to existing html pages on other sites.
 - A work experience section (This would be a good place for your lists)
 - Links to sites like github and linkedin where someone could learn more
 
@@ -17,7 +17,7 @@
 - lists (Ordered and Unordered with at least 2 items)
 - different background colors for different sections (not each piece, but like header/footer/main content/etc)
 - images (at least 2)
-- links to other pages (at least the two above)
+- links to other pages that you have written 
 - heading styles that are defined in your CSS (in the file main.css provided in this repository)
 
 ### Your Page must also include:
